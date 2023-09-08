@@ -18,17 +18,16 @@ I'm a senior student. 🤝
 <h2 align="left"> 📈 Status</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo8-k2arl&theme=discord_old_blurple&layout=compact&count_private=true&show_icons=true" />
+        <img alt="" height="150px" src="https://git-hub-readme-stats-clone-2ca2.vercel.app/api/top-langs/?username=Ryo8-k2arl&theme=discord_old_blurple&layout=compact&count_private=true&show_icons=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="" height="140px" src="https://github-readme-stats.vercel.app/api?username=Ryo8-k2arl&theme=discord_old_blurple&count_private=true" />
+        <img alt="" height="150px" src="https://git-hub-readme-stats-clone-2ca2.vercel.app/api?username=Ryo8-k2arl&theme=discord_old_blurple&count_private=true" />
     </a>
 </p>
 
 <h2 align="left"> 📨 Contact me.</h2>
 <p align="left">
     <a href="https://twitter.com/krade_gsty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krade_gsty" height="30" width="40" /></a>
-    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
     <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
