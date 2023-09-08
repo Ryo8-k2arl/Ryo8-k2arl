@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryo</h1>
+<h1 align="center">Hi 👋, I'm Ryo.K</h1>
 I'm a senior student. 🤝
 
 <h3 align="left"> 🌱 my skills</h3>
