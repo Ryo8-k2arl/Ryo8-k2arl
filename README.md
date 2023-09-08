@@ -34,6 +34,7 @@ I'm a senior student. 🤝
 
 <!--
 **Ryo8-k2arl/Ryo8-k2arl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://git-hub-readme-stats-clone-2ca2.vercel.app
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning **HTML, CSS**
