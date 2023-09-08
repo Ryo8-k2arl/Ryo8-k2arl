@@ -16,10 +16,10 @@ I'm a senior student. 🤝
 <h2 align="left"> 📈 Status</h2>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo8-k2arl&layout=compact&count_private=true&show_icons=true&thema=dark" />
+        <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo8-k2arl&theme=discord_old_blurple&layout=compact&count_private=true&show_icons=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryo8-k2arl&count_private=true&thema=dark" />
+        <img alt="" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ryo8-k2arl&theme=discord_old_blurple&count_private=true" />
     </a>
 </p>
 
