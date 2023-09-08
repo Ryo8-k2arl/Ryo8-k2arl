@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
 - 🌱 I’m currently learning **HTML, CSS**
-[](
-- 📝 I regularly write articles on [https://qiita.com/Ryo8-k2arl](https://qiita.com/Ryo8-k2arl)
-)
+
+- 📝 I regularly write articles on [Qiita](https://qiita.com/Ryo8-k2arl)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/krade_gsty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krade_gsty" height="30" width="40" /></a>
