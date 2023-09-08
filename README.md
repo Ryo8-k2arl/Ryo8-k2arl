@@ -4,15 +4,15 @@ I'm a senior student. 🤝
 
 <h3 align="left"> 🌱 my skills</h3>
 <p align="center">
-    <a href="https://www.cprogramming.com/"                 target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=c" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.python.org"                        target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=python" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.java.com"                          target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=java" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.latex-project.org/"                target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=latex" alt="latex" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/"                        target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=linux" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/"                 target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=c" alt="c"              width="60" height="60"/> </a>
+    <a href="https://www.python.org"                        target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=python" alt="python"    width="60" height="60"/> </a> 
+    <a href="https://www.java.com"                          target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=java" alt="java"        width="60" height="60"/> </a>
+    <a href="https://www.latex-project.org/"                target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=latex" alt="latex"      width="60" height="60"/> </a> 
+    <a href="https://www.linux.org/"                        target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=linux" alt="linux"      width="60" height="60"/> </a>
     <br>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=md" alt="markdown" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/"                      target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=html" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/"                target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=css" alt="css3" width="40" height="40"/> </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=md" alt="markdown"      width="60" height="60"/> </a>
+    <a href="https://www.w3.org/html/"                      target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=html" alt="html5"       width="60" height="60"/> </a>
+    <a href="https://www.w3schools.com/css/"                target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?theme=dark&perline=8&i=css" alt="css3"         width="60" height="60"/> </a>
 </p>
 
 <h2 align="left"> 📈 Status</h2>
