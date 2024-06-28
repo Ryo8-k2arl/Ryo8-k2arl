@@ -15,14 +15,14 @@ I'm a senior student. 🤝
 </p>
 
 <h2 align="left"> 📈 Status</h2>
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="" height="175px" src="https://git-hub-readme-stats-clone-2ca2.vercel.app/api/top-langs/?username=Ryo8-k2arl&theme=discord_old_blurple&layout=compact&count_private=true&show_icons=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="" height="175px" src="https://git-hub-readme-stats-clone-2ca2.vercel.app/api?username=Ryo8-k2arl&theme=discord_old_blurple&count_private=true" />
     </a>
-</p>
+</p> -->
 
 <h2 align="left"> 📨 Contact me.</h2>
 <p align="left">
